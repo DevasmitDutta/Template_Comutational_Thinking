@@ -1,5 +1,5 @@
 Dict(
-    "title" => @htl("Computational thinking <strong>website template</strong>"),
+    "title" => @htl("Tutorial Web-page for Assignments ... <strong>website template</strong>"),
 
     # # add a disclaimer to the course webpage. Remove it if you dont want to include it.
     "disclaimer" => md"""
